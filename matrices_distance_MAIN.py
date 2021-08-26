@@ -122,7 +122,7 @@ def findDifferenceBetweenPDFs(x1, Pofx1, x2, Qofx2):
 
 def main():
     print('*************************************************************************************')
-    print(' Information Theory Assignment Solution: To find the \'distance\' between two matrices')
+    print(' To find the \'distance\' between two matrices')
     print('*************************************************************************************')
     minimum = int(input('\nEnter the minimum allowed value for the elements of the matrices: '))
     maximum = int(input('Enter the maximum allowed value for the elements of the matrices: '))
